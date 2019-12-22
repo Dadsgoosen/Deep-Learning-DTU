@@ -1,4 +1,4 @@
-# Deep-Learning-DTU
+# Distributed Reinforcement Learning and Large Scale Data Collection for Supervised Deep Learning Models
 
 Final project for the deep learning course on DTU.
 
